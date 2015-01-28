@@ -21,4 +21,8 @@ public class ImportantTweetModel extends LonelyTweetModel {
 		return timestamp;
 	}
 
+
+	
+	
+
 }

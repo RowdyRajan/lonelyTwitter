@@ -33,7 +33,7 @@ public abstract class LonelyTweetModel {
 	}
 	
 	public boolean equals(Object other) {
-		if (other == null || !(other instanceof LonelyTweetModel)) {
+		if (other == null || !(other instanceof LonelyTweetModel )) {
 			return false;
 		}
 		
